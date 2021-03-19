@@ -19,7 +19,7 @@ html {
 }
 
 body {
-  background-color: rgb(133, 136, 129);
+  background-color: rgb(98, 99, 96);
   opacity: 0.75;
   margin: 0 auto;
 }
@@ -29,6 +29,13 @@ body {
   display: flex;
   justify-content: center;
   flex-direction: row;
+  font-size: 50px; 
+}
+
+#head h2 {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
 }
 
 .nav {
@@ -56,8 +63,8 @@ body {
 }
 
 .nav a:hover {
-  background-color: #ddd;
-  color: black;
+  background-color: rgb(230, 230, 230);
+  color: bisque;
 }
 
 
