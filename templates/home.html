@@ -12,25 +12,12 @@
         <title>{% block title %} {% endblock %}</title>
     </head> 
     <body>
-        <div id ="head">
-            <h1 class="app">cyz.dev</h1>
-            <h2>back-end and low-level developer</h2> 
-        </div>
+        <h1 class="lower">cyz.dev</h1>
+        <h2 class="line-1 anim-typewriter">back-end & low-level developer</h2> 
         <div class="nav">
             <a href="{{ url_for('home') }}" class="active">Home</a>
-            <div id="links">
-                <a href="https://github.com/Cyzorz">GitHub</a>
-                <a href="{{ url_for('home') }}">Contact</a>
-            </div>
-
-            <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-                <i class="fa fa-bars"></i>
-            </a>
-        </div>
-        <div id="art">
-            <!-- <img src="{{ url_for('static', filename='images/cyz.gif') }}"> -->
-        </div>
-
+            <a href="https://github.com/Cyzorz">GitHub</a>
+            <a href="{{ url_for('home') }}">Contact</a>
 
     </body>
 </html>
