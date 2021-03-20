@@ -43,6 +43,7 @@ body{
   position: relative;
   text-align: center;
   top: 51%; 
+  color: rgb(130,212,230);
   font-size: 30px;
   white-space: nowrap;
   overflow: hidden;
