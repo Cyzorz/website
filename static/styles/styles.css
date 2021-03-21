@@ -21,7 +21,7 @@ body{
     font-size: 180%;
     text-align: center;
     white-space: nowrap;
-    overflow: hidden;
+    overflow: auto;
     transform: translateY(-50%);    
 }
 
@@ -55,7 +55,7 @@ body{
   text-align: center;
   top: 51%; 
   white-space: nowrap;
-  overflow: auto;
+  overflow: hidden;
   transform: translateY(-50%); 
 }
 
