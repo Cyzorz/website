@@ -55,7 +55,7 @@ body{
   text-align: center;
   top: 51%; 
   white-space: nowrap;
-  overflow: hidden;
+  overflow: auto;
   transform: translateY(-50%); 
 }
 
