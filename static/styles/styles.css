@@ -22,6 +22,7 @@ body{
     text-align: center;
     white-space: nowrap;
     overflow: hidden;
+    text-orientation: mixed;
     transform: translateY(-50%);    
 }
 
