@@ -33,7 +33,7 @@ body{
 }
 @keyframes typewriter{
   from{width: 0;}
-  to{width: 12.3em;}
+  to{width: 13em;}
 }
 @keyframes blinkTextCursor{
   from{border-right-color: rgba(117, 67, 67, 0.75);}
