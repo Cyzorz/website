@@ -21,7 +21,6 @@ body{
     font-size: 180%;
     text-align: center;
     white-space: nowrap;
-    text-overflow: ellipsis;
     overflow: hidden;
     text-orientation: mixed;
     transform: translateY(-50%);    
